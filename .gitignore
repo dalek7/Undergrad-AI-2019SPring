@@ -12,6 +12,8 @@ out*/
 out/
 pretrained-model/
 *.mat
+__not/
+
 
 .DS_Store
 .DS_Store/
