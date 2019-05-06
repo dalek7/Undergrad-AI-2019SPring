@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+#custom
+out*/
+*.zip
+out/
+pretrained-model/
+*.mat
+
+.DS_Store
+.DS_Store/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
 # Distribution / packaging
 .Python
 build/
